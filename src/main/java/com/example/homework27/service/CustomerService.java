@@ -2,7 +2,7 @@ package com.example.homework27.service;
 
 import com.example.homework27.converter.CustomerConverter;
 import com.example.homework27.entity.Customer;
-import com.example.homework27.excertion.ServiceException;
+import com.example.homework27.exception.ServiceException;
 import com.example.homework27.model.CustomerJson;
 import com.example.homework27.repository.CustomerRepository;
 import jakarta.transaction.Transactional;

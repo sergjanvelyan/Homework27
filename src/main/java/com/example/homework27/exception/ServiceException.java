@@ -1,4 +1,4 @@
-package com.example.homework27.excertion;
+package com.example.homework27.exception;
 
 public class ServiceException extends RuntimeException{
     private String message;

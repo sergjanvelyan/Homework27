@@ -2,7 +2,7 @@ package com.example.homework27.service;
 
 import com.example.homework27.converter.OrderConverter;
 import com.example.homework27.entity.Orders;
-import com.example.homework27.excertion.ServiceException;
+import com.example.homework27.exception.ServiceException;
 import com.example.homework27.model.OrderJson;
 import com.example.homework27.repository.OrdersRepository;
 import jakarta.transaction.Transactional;
